@@ -1,0 +1,159 @@
+
+.body-container{
+
+	width: 100%;
+	margin: auto;
+	background: #9C9DAA;
+	font-family: "Open sans";
+	font-weight: 400;
+	text-align: center
+		
+}
+
+.header-container{
+	
+	background: #706F75;
+	font-family: "Dancing Script";
+	font-weight: 700;
+	text-align: center;
+	margin-top: 0;	
+
+}
+
+.header-image{
+
+	border-radius: 50%;
+}
+
+.header-imageContainer{
+
+	
+}
+
+.header-mainMenu{
+
+	display: inline;
+	text-align: center;
+}
+
+.header-mainMenu-item{
+	
+	color: #dd5d26;
+	text-shadow: 2px 1px 1px #C7C7C7;
+	padding: 1em;
+	font-size: 2em;
+	text-decoration: none;
+	
+
+}
+
+.header-twitterLink{
+
+	text-align: center;
+	color: #BFC1EC;
+	font-family: "Open sans";
+	font-weight: 700;
+	font-size: 1.2em;
+	text-decoration: none;
+	margin-top: 0;
+}
+
+.header-searchContainer{
+
+	text-align: right;
+	color: #50232e;
+	padding: 0.5em;
+}
+
+.header-search{
+
+	text-align: left;
+	background: #FFE3D2;
+	color: black;
+
+
+}
+
+.personal-image{
+
+	float: left;
+	border-radius: 30px;
+}
+
+.title{
+
+	color: #dd5d26;
+	font-size: 3em;
+	font-family: "Dancing Script";
+	text-shadow: 5px 2px 4px #C7C7C7;
+	font-weight: 700;
+	text-align: center;
+	font-weight: bold;
+}
+
+hr{
+
+	border: #0E5534 dashed 1px; width: 60%;
+}
+.work-profile{
+
+		text-align: center;
+
+}
+
+.work-container{
+
+	display: inline-block;
+	padding: 1em;
+	text-align: center;
+}
+
+.work-image{
+	border-radius: 10px;
+	position: left;
+
+
+/* Aqui colocamos la transicion para cada navegador */
+ 	 -webkit-transition:all 0.5s ease-out;  /* Chrome y Safari */
+ 	 -o-transition:all 0.5s ease-out;  /* Opera */
+ 	 -moz-transition:all 0.5s ease-out;  /* Mozilla Firefox */
+ 	 -ms-transition:all 0.5s ease-out;   /* Internet Explorer */
+ 	 transition:all 0.5s ease-out;  /* W3C */
+}
+.work-image:hover{
+	 text-shadow:0 0 20px black;
+ 	 color:#555;
+ 	 box-shadow:0 0 30px 0 black;
+}
+
+.formulario{
+
+	text-align: center;
+	display: inline-block;
+
+}
+
+.form {
+	
+	background: #FFE3D2; 
+	display: block;	
+	margin-bottom: 0.5em;
+	border-radius: 10px;
+	padding: 0 0.5em;
+
+}
+
+.footer-left{
+	
+	display: inline-block;
+	width: 30em;
+	text-align: center;
+	vertical-align: top;
+	font-size: 1.5em;
+	margin-top: 4em;
+	color: black;
+	font-family: "Open sans";
+
+
+
+}
