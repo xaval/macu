@@ -3,7 +3,7 @@
 	width: 100%;
 	margin: auto;
 	background: #9C9DAA;
-	font-family: "Open sans";
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	text-align: center
 		
@@ -50,7 +50,7 @@
 
 	text-align: center;
 	color: #BFC1EC;
-	font-family: "Open sans";
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	font-size: 1.2em;
 	text-decoration: none;
